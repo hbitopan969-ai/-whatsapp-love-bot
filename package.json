@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-love-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Group Auto Response Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.14.1"
+  },
+  "author": "Bittu",
+  "license": "ISC"
+}
